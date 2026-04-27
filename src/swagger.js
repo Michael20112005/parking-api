@@ -8,7 +8,7 @@ const swaggerSpec = swaggerJSDoc({
       title: 'Parking API',
       version: '1.0.0'
     },
-    servers: [{ url: 'http://localhost:' + (process.env.PORT || 3000) }]
+    servers: [{ url: 'http://68.210.185.215:' + (process.env.PORT || 3000) }]
   },
   apis: ['./src/swagger-components.js', './src/routes/*.routes.js']
 });
