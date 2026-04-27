@@ -210,5 +210,3 @@ The application is deployed using:
 ## 👨‍💻 Author
 
 Mykhailo
-Якщо хочеш — я можу:
-👉 зробити **ще більш “дорогий” README (з діаграмами і badge-ами)**
