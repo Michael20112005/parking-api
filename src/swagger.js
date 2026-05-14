@@ -9,7 +9,7 @@ const swaggerSpec = swaggerJSDoc({
       version: '1.0.0'
     },
     servers: [
-      { url: process.env.SWAGGER_SERVER_URL || 'http://localhost:3000' }
+      { url: process.env.SWAGGER_SERVER_URL || '/' }
     ]
   },
   apis: ['./src/swagger-components.js', './src/routes/*.routes.js']

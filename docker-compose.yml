@@ -26,4 +26,4 @@ services:
       DB_USER: postgres
       DB_PASSWORD: 1234
       DB_SYNC: "false"
-      SWAGGER_SERVER_URL: http://localhost:3000
+      SWAGGER_SERVER_URL: /
